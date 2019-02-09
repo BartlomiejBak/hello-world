@@ -2,5 +2,5 @@
 
 BartlomiejBak
 
-Investment analyst in VC fund.
+Investment analyst in VC fund
 Java beginner
